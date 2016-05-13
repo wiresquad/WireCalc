@@ -18,8 +18,6 @@ from nltk.classify import NaiveBayesClassifier
 import collections
 
 
-
-
 #########Variables constantes
 #Répertoires de sortie
 outDir = "output/article"
